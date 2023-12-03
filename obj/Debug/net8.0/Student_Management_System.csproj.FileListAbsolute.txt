@@ -1,0 +1,17 @@
+D:\ConsoleApp1\bin\Debug\net8.0\Student_Management_System.exe
+D:\ConsoleApp1\bin\Debug\net8.0\Student_Management_System.deps.json
+D:\ConsoleApp1\bin\Debug\net8.0\Student_Management_System.runtimeconfig.json
+D:\ConsoleApp1\bin\Debug\net8.0\Student_Management_System.dll
+D:\ConsoleApp1\bin\Debug\net8.0\Student_Management_System.pdb
+D:\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.csproj.AssemblyReference.cache
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.AssemblyInfoInputs.cache
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.AssemblyInfo.cs
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.csproj.CoreCompileInputs.cache
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.csproj.CopyComplete
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.dll
+D:\ConsoleApp1\obj\Debug\net8.0\refint\Student_Management_System.dll
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.pdb
+D:\ConsoleApp1\obj\Debug\net8.0\Student_Management_System.genruntimeconfig.cache
+D:\ConsoleApp1\obj\Debug\net8.0\ref\Student_Management_System.dll

@@ -1,0 +1,45 @@
+[
+  {
+    "StudentID": "101",
+    "JoiningBatch": "1",
+    "Department": 2,
+    "Degree": 2,
+    "SemestersAttended": [
+      {
+        "SemesterCode": 2,
+        "Year": "2016",
+        "Courses": []
+      },
+      {
+        "SemesterCode": 1,
+        "Year": "2018",
+        "Courses": []
+      },
+      {
+        "SemesterCode": 1,
+        "Year": "2017",
+        "Courses": [
+          {
+            "CourseID": "ENG103",
+            "CourseName": "English Composition",
+            "InstructorName": "Alice Johnson",
+            "Credits": 3
+          }
+        ]
+      }
+    ],
+    "FirstName": "md",
+    "MiddleName": "sabbir",
+    "LastName": "hossain"
+  },
+  {
+    "StudentID": "111",
+    "JoiningBatch": "3",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": [],
+    "FirstName": "MD",
+    "MiddleName": "amir",
+    "LastName": "hossain"
+  }
+]
